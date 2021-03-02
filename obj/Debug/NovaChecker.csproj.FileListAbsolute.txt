@@ -1,0 +1,4 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaChecker\NovaChecker\bin\Debug\NovaChecker.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaChecker\NovaChecker\bin\Debug\NovaChecker.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaChecker\NovaChecker\obj\Debug\NovaChecker.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaChecker\NovaChecker\obj\Debug\NovaChecker.exe
